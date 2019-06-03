@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://flint-camp.github.io/FLINT-Camp/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://flint-camp.github.io/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://flint-camp.github.io/FLINT-Camp/</loc>
+<loc>https://flint-camp.github.io/</loc>
 </url>
 <url>
-<loc>https://flint-camp.github.io/FLINT-Camp/details-zum-flticamp.html</loc>
+<loc>https://flint-camp.github.io/details-zum-flticamp.html</loc>
 <lastmod>2019-06-01T12:27:55+02:00</lastmod>
 </url>
 <url>
-<loc>https://flint-camp.github.io/FLINT-Camp/mitmachen.html</loc>
+<loc>https://flint-camp.github.io/mitmachen.html</loc>
 <lastmod>2019-06-01T12:12:28+02:00</lastmod>
 </url>
 <url>
-<loc>https://flint-camp.github.io/FLINT-Camp/open-call-fur-workshops.html</loc>
+<loc>https://flint-camp.github.io/open-call-fur-workshops.html</loc>
 <lastmod>2019-06-01T12:23:04+02:00</lastmod>
 </url>
 <url>
-<loc>https://flint-camp.github.io/FLINT-Camp/workshops-und-aktivitaten.html</loc>
+<loc>https://flint-camp.github.io/workshops-und-aktivitaten.html</loc>
 <lastmod>2019-06-01T12:25:26+02:00</lastmod>
 </url>
 </urlset>
